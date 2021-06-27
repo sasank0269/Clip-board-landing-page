@@ -332,6 +332,7 @@ footer .socmed{
         grid-template-columns: repeat(2,1fr);
         text-align: left;
         position: relative;
+	margin-top:25px;
     }
     .k1 p{
         margin-left: 0px;
