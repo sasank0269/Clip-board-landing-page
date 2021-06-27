@@ -332,8 +332,8 @@ footer .socmed{
         text-align: left;
         position: relative;
     }
-    .keep .mat p{
-	    	margin-top:25px;
+    .keep .mat {
+	    	margin-bottom:25px;
 	}
     .k1 p{
         margin-left: 0px;
