@@ -22,6 +22,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+**** In CSS i used reset css on top for removing all decorations in the page and to edit them convinently***
 ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
