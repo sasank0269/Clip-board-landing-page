@@ -90,6 +90,7 @@ input[type="button"]{
     font-weight: 500;
     box-shadow: 10px 2px 50px -13px black;
     font-size: 18px;
+    cursor:pointer;	
 }
 .ios{
     background-color: hsl(171, 66%, 44%);
