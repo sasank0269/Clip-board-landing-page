@@ -48,7 +48,7 @@ body {
 
 .first {
     text-align: center;
-    background-image: url(images/bg-header-mobile.png);
+    background-image: url(bg-header-mobile.png);
     background-repeat: no-repeat;
     height: 100vh;
 }
@@ -242,7 +242,7 @@ footer .socmed{
 }
 @media (min-width:376px) {
     .first {
-        background-image: url(images/bg-header-desktop.png);
+        background-image: url(bg-header-desktop.png);
     }
 }
 @media (min-width:900px){
